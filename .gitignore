@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# JavaScript
+node_modules/
+dist/
+
+# Local configuration and generated data
+.env
+.env.*
+!.env.example
+*.log
+.pytest_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
